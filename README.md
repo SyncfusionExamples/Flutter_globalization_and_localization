@@ -6,6 +6,7 @@ This repository contains a sample to achieve globalization and localization usin
 
 This project used the following Syncfusion widget(s):
 * [SfCalendar](https://www.syncfusion.com/flutter-widgets/flutter-calendar)
+* [SfLocalization]()
 
 ## Supported platforms
 
