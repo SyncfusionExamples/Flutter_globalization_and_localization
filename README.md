@@ -2,6 +2,8 @@
 
 This repository contains a sample to achieve globalization and localization using Syncfusion Flutter widgets.
 
+Please refer the Blog through this [link](https://www.syncfusion.com/blogs/post/globalization-localization-in-flutter).
+
 ## Syncfusion widgets:
 
 This project used the following Syncfusion widget(s):
